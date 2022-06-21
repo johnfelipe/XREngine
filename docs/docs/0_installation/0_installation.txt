@@ -1,0 +1,9 @@
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\0_installation.txt
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\12-updating-and-seeding-database.md
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\advanced_setup.md
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\docker.md
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\install-troubleshooting.md
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\mac_os_x.md
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\readme.md
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\running-on-static-IP.md
+E:\Users\GAMEMAX\Documents\GitHub\XREngine\docs\docs\0_installation\windows.md
